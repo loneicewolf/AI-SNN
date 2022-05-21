@@ -26,7 +26,9 @@ it will (or, more specifically `it's goal is to`) Help those who stutters, Like 
 
 
 -----
+
 ![picture](https://github.com/loneicewolf/AI-SNN/blob/2bf3845a60fb93a2462530035b0c5587185cfc56/diagram_a.png)
+
 `made with draw.io`
 
 -----
