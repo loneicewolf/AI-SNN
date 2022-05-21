@@ -12,9 +12,9 @@ it will (or, more specifically `it's goal is to`) Help those who stutters, Like 
 
 
 ## Why make this repo?
-`*`Excluding it will help stuttering?`*`
+- Q) Excluding it will help stuttering?
 
-- This whole "thing" called Stuttering; needs to be more researched in my opinion.
+- A) This whole "thing" called Stuttering; needs to be more researched in my opinion.
 
 
 
