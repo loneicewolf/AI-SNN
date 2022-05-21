@@ -11,13 +11,15 @@ it will (or, more specifically `it's goal is to`) Help those who stutters, Like 
 
 
 
+
+
 ## Why make this repo?
 - Q) Excluding it will help stuttering?
 
 - A) This whole "thing" called Stuttering; needs to be more researched in my opinion.
 
 
-
+---
 
 -----
 
