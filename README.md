@@ -1,8 +1,14 @@
 ## AI SNN
 ### or Artificial Intelligence Stuttering Neural Network
+
+
 Is a Project I have been wanting to do in my entire life;
 it will (or, more specifically `it's goal is to`) Help those who stutters, Like myself.
 
+~~~
+  Note! Grammar has never been my strong front, so please - if you spot any(any!) error (not only grammar) please point it out!
+  thanks! ~Will.
+~~~
 
 ### How?
 - Good question. My first question was exactly that. "How?!"
