@@ -10,3 +10,10 @@ resources I have been using (and will continue using)
 - [Ask Diff. - at StackExchange](https://apple.stackexchange.com/)
 
 
+
+### Some external resources
+- https://github.com/karpathy/char-rnn
+- 
+- 
+- 
+
