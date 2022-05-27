@@ -1,2 +1,2 @@
 # recurrent neural network - (RNN)
-this will most likely be my our "approach"
+this will most likely be our "approach"
