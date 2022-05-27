@@ -13,7 +13,7 @@ resources I have been using (and will continue using)
 
 ### Some external resources
 - https://github.com/karpathy/char-rnn
-- 
+  - https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - 
 - 
 
