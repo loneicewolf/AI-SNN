@@ -1,6 +1,8 @@
 ## AI SNN
 ### or Artificial Intelligence Stuttering Neural Network
 
+### ⚠️ check the in-prog. branch for what's new & coming.
+
 
 Is a Project I have been wanting to do in my entire life;
 it will (or, more specifically `it's goal is to`) Help those who stutters, Like myself.
