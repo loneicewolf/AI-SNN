@@ -16,8 +16,8 @@ it will (or, more specifically `it's goal is to`) Help those who stutters, Like 
 - Good question. My first question was exactly that. "How?!"
 
 - Will continue adding soon.
-
-
+- as a further reading:
+- `note: not mine` [stuttered-speech-recognition-using-convolutional-neural-networks at ijert.org](https://www.ijert.org/research/stuttered-speech-recognition-using-convolutional-neural-networks-IJERTCONV9IS12057.pdf)
 
 
 
